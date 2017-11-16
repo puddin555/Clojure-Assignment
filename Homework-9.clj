@@ -2,6 +2,10 @@
 ; David Rose -- J00524659
 ; Homework-9 -- CSC 333
 
+; This program has two functions
+; 1. Find the sum of a list of ints
+; 2. Check if two list are equal
+
 (ns hw.core
   (:gen-class))
 
